@@ -33,6 +33,11 @@ In this project, we undertook a comprehensive analysis of the bank's marketing c
 
 6. **Visualizing Clusters and Inferences:** Leveraging the insights from unsupervised learning, we created informative visualizations. These visualizations were showcased alongside the results of the analysis on a dynamic dashboard developed using Streamlit. Our visualizations and inferences provide actionable insights for decision-makers. We highlighted clusters with high subscription rates, suggesting targeting these clusters to boost sales.
 
+## Repository Structure
+
+- `data/`: This directory contains the dataset used in the project.
+- `notebooks/`: Jupyter notebooks detailing each step of the analysis, from data cleaning to machine learning and visualization.
+- 
 
 ## Dashboard
 
