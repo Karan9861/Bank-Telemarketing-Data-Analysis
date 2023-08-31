@@ -37,3 +37,13 @@ In this project, we undertook a comprehensive analysis of the bank's marketing c
 ## Dashboard
 
 The core findings and insights of this project are brought to life through an interactive dashboard developed using Streamlit and Plotly. The dashboard enables users to visualize the results of the analysis in a dynamic and intuitive manner. By seamlessly integrating visualizations and clustering results, the dashboard provides a holistic view of the marketing campaign's performance and offers actionable recommendations.
+
+## Citation:
+  This dataset is public available for research.
+
+  [Moro et al., 2011] S. Moro, R. Laureano and P. Cortez. Using Data Mining for Bank Direct Marketing: An Application of the CRISP-DM Methodology. 
+  In P. Novais et al. (Eds.), Proceedings of the European Simulation and Modelling Conference - ESM'2011, pp. 117-121, Guimarães, Portugal, October, 2011. EUROSIS.
+
+  Available at: - [pdf] http://hdl.handle.net/1822/14838
+                - [bib] http://www3.dsi.uminho.pt/pcortez/bib/2011-esm-1.txt
+
