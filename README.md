@@ -37,7 +37,7 @@ In this project, we undertook a comprehensive analysis of the bank's marketing c
 
 - `data/`: This directory contains the dataset used in the project.
 - `notebooks/`: Jupyter notebooks detailing each step of the analysis, from data cleaning to machine learning and visualization.
-- 
+- `dashboard/`: Source code and scripts for the Streamlit dashboard.
 
 ## Dashboard
 
