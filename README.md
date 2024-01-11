@@ -21,7 +21,7 @@ In this project, we undertook a comprehensive analysis of the bank's marketing c
    - Support Vector Machine
    - Vote Classifier
 
-4. **Identifying the Best Model:** After evaluating the models, the Random Forest Classifier emerged as the top performer after careful SMOTE sampling and data normalization steps during the feature enginerring. It exhibited an impressive accuracy of 90% and the highest F1 score of 57, outperforming other algorithms.
+4. **Identifying the Best Model:** Upon thorough evaluation of the models, the Random Forest Classifier emerged as the leading performer. This result was achieved through meticulous application of SMOTE sampling and data normalization during the feature engineering process. The classifier demonstrated an outstanding accuracy rate of 90% and secured the highest F1 score of 57, surpassing the performance of other algorithms in the comparison.
 
 5. **Unsupervised Learning Methods:** We delved into unsupervised learning techniques to uncover hidden patterns:
    - Principal Component Analysis (PCA)
